@@ -1,4 +1,5 @@
-//> using scala "3.3.0"
+//> using scala "3.3.8"
+//> using options -Yfuture-lazy-vals -java-output-version:11
 //> using dep "io.cequence::openai-scala-client:0.5.0"
 //> using dep "com.lihaoyi::os-lib:0.9.2"
 import io.cequence.openaiscala.domain.ChatRole
